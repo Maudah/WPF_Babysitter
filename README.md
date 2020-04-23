@@ -7,4 +7,5 @@ in the nannies' services for one of their children.
 The system allows the mother to contact the nanny immediately and sign the employment contract with her.
 
  Here you can see the system's option:
- 
+ ![](https://github.com/Maudah/WPF_Babysitter/blob/master/Main.PNG)
+ ![](https://github.com/Maudah/WPF_Babysitter/blob/master/Add%20or%20update%20nanny.PNG)
