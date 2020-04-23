@@ -1,0 +1,17 @@
+c:\Users\ליטל\source\repos\WpfApp2\DS\bin\Debug\DS.dll
+c:\Users\ליטל\source\repos\WpfApp2\DS\bin\Debug\DS.pdb
+c:\Users\ליטל\source\repos\WpfApp2\DS\bin\Debug\BE.dll
+c:\Users\ליטל\source\repos\WpfApp2\DS\bin\Debug\BE.pdb
+c:\Users\ליטל\source\repos\WpfApp2\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+c:\Users\ליטל\source\repos\WpfApp2\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+c:\Users\ליטל\source\repos\WpfApp2\DS\obj\Debug\DS.dll
+c:\Users\ליטל\source\repos\WpfApp2\DS\obj\Debug\DS.pdb
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\DS\bin\Debug\DS.dll
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\DS\bin\Debug\DS.pdb
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\DS\bin\Debug\BE.dll
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\DS\bin\Debug\BE.pdb
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\DS\obj\Debug\DS.dll
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\DS\obj\Debug\DS.pdb
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\DS\obj\Debug\DS.csprojAssemblyReference.cache
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\DS\obj\Debug\DS.csproj.CopyComplete

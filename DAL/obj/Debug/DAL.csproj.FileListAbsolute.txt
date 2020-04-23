@@ -1,0 +1,21 @@
+c:\Users\ליטל\source\repos\WpfApp2\DAL\bin\Debug\DAL.dll
+c:\Users\ליטל\source\repos\WpfApp2\DAL\bin\Debug\DAL.pdb
+c:\Users\ליטל\source\repos\WpfApp2\DAL\bin\Debug\BE.dll
+c:\Users\ליטל\source\repos\WpfApp2\DAL\bin\Debug\DS.dll
+c:\Users\ליטל\source\repos\WpfApp2\DAL\bin\Debug\BE.pdb
+c:\Users\ליטל\source\repos\WpfApp2\DAL\bin\Debug\DS.pdb
+c:\Users\ליטל\source\repos\WpfApp2\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\Users\ליטל\source\repos\WpfApp2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+c:\Users\ליטל\source\repos\WpfApp2\DAL\obj\Debug\DAL.dll
+c:\Users\ליטל\source\repos\WpfApp2\DAL\obj\Debug\DAL.pdb
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\DAL\bin\Debug\DAL.dll
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\DAL\bin\Debug\DAL.pdb
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\DAL\bin\Debug\BE.dll
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\DAL\bin\Debug\DS.dll
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\DAL\bin\Debug\BE.pdb
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\DAL\bin\Debug\DS.pdb
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\DAL\obj\Debug\DAL.dll
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\DAL\obj\Debug\DAL.pdb
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\DAL\obj\Debug\DAL.csproj.CopyComplete

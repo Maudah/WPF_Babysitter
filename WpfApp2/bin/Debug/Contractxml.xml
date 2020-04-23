@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contracts>
+  <contract>
+    <ContractCode>5</ContractCode>
+    <NannyID>207135724</NannyID>
+    <ChildID>341083095</ChildID>
+    <IsMeating>true</IsMeating>
+    <Signing>true</Signing>
+    <PayForHour>30</PayForHour>
+    <PayForMonth>0</PayForMonth>
+    <IsHour>true</IsHour>
+    <StartingDate>2018-05-01T00:00:00</StartingDate>
+    <EndingDate>2019-01-01T00:00:00</EndingDate>
+    <MomId>207135724</MomId>
+  </contract>
+  <contract>
+    <ContractCode>6</ContractCode>
+    <NannyID>319020608</NannyID>
+    <ChildID>341083095</ChildID>
+    <IsMeating>true</IsMeating>
+    <Signing>true</Signing>
+    <PayForHour>40</PayForHour>
+    <PayForMonth>0</PayForMonth>
+    <IsHour>true</IsHour>
+    <StartingDate>2019-01-01T00:00:00</StartingDate>
+    <EndingDate>2020-01-01T00:00:00</EndingDate>
+    <MomId>207135724</MomId>
+  </contract>
+</contracts>

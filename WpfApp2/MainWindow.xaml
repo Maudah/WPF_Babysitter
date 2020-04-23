@@ -1,0 +1,60 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="Main window"  WindowState="Maximized" Height="600" Width="1120">
+    <Window.Resources>
+        <Style x:Key="myStyle"
+               TargetType="Button">
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="Background" Value="#D586A2"/>
+            <Setter Property="Width" Value="auto"/>
+            <Setter Property="Height" Value="auto"/>
+            <Setter Property="FontFamily" Value="Yu Gothic"/>
+            <Setter Property="Margin" Value="10,10"/>
+
+        </Style>
+    </Window.Resources>
+    <Grid  Background="#e9e5dd">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Button Content="Add or update child details"  Style="{StaticResource myStyle}"  Click="Button_Click_1" Grid.Column="1"  Grid.Row="2"/>
+        <Button Content="Add or update nanny details" Style="{StaticResource myStyle}" Click="Button_Click_2" Grid.Column="3" Grid.Row="3"  />
+        <Button Content="Delete nanny" Style="{StaticResource myStyle}" Click="Button_Click_3"  Grid.Row="2" Grid.Column="3"/>
+        <Button Content="Add or update mother details"  Style="{StaticResource myStyle}" Click="Button_Click_4" Grid.Column="2" Grid.Row="2"/>
+        <Button Content="Delete child" Style="{StaticResource myStyle}"  Click="Button_Click_5" Grid.Column="1" Grid.Row="3"/>
+        <Button Content="Delete mother" Style="{StaticResource myStyle}" Click="Button_Click_6" Grid.Column="2" Grid.Row="3"/>
+        <Button Content="Add or update contract" Style="{StaticResource myStyle}" Click="Button_Click_7" Grid.Row="2" />
+        <Button Content="Delete contract" Style="{StaticResource myStyle}" Click="Button_Click_8" Grid.Column="0" Grid.Row="3" />
+        <Button Content="Build contract"  Style="{StaticResource myStyle}" Click="Button_Click_13" Grid.Column="0" Grid.Row="4" />
+        <Button Content="Mothers' actions" Style="{StaticResource myStyle}" Click="Button_Click_9" Grid.Column="2" Grid.Row="4" />
+        <Button Content="Childs' actions" Style="{StaticResource myStyle}" Click="Button_Click_11" Grid.Column="1" Grid.Row="4" />
+        <Button Content="Nannys' actions " Style="{StaticResource myStyle}" Click="Button_Click_12" Grid.Column="3" Grid.Row="4" />
+
+        <Button Content="Contracts' actions " Style="{StaticResource myStyle}" Click="Button_Click_10" Grid.Column="0" Grid.Row="5"  />
+
+        <Label Content="     Wellcome!" Width="1300" FontSize="48" FontWeight="Bold" HorizontalAlignment="Left"  VerticalAlignment="Center" FontFamily="Yu Gothic Gothic" Grid.Row="0" Grid.ColumnSpan="4" Background="#d5d3c9" />
+        <Label Content="Contracts' actions" FontSize="24" FontFamily="Yu Gothic" FontWeight="Bold" Grid.Column="0" Grid.Row="1"/>
+        <Label Content="Nannys' actions" FontSize="24" FontFamily="Yu Gothic" FontWeight="Bold" Grid.Row="1" Grid.Column="3"/>
+        <Label Content="Childs' actions" FontSize="24" FontFamily="Yu Gothic" FontWeight="Bold" Grid.Column="1" Grid.Row="1"/>
+        <Label Content="Mothers' actions" FontSize="24" FontFamily="Yu Gothic" FontWeight="Bold" Grid.Column="2" Grid.Row="1"/>
+
+    </Grid>
+</Window>

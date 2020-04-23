@@ -1,0 +1,26 @@
+﻿<Window x:Class="WpfApp2.SeeContract"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="Contracts' actions" Height="392.999" Width="577.457">
+    <Grid Background="#e9e5dd">
+        <Button  Background="#D586A2" Content="Search" HorizontalAlignment="Left" Height="27" Margin="269,51,0,0" VerticalAlignment="Top" Width="71" Click="Button_Click" RenderTransformOrigin="2.759,0.383"/>
+        <TextBox x:Name="idtxt" HorizontalAlignment="Left" Height="27" Margin="360,51,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="101"/>
+        <ListBox Background="#d5d3c9" x:Name="listBox" HorizontalAlignment="Left" Height="312" Margin="41,35,0,0" VerticalAlignment="Top" Width="207" MouseDoubleClick="listBox_MouseDoubleClick"/>
+        <Label Content="By contract's code" HorizontalAlignment="Left" Height="30" Margin="466,51,0,0" VerticalAlignment="Top" Width="81"/>
+        <Button  Background="#D586A2" Content="See all contracts" HorizontalAlignment="Left" Height="32" Margin="285,182,0,0" VerticalAlignment="Top" Width="237" Click="Button_Click_1"/>
+        <TextBox x:Name="idchildtxt" HorizontalAlignment="Left" Height="27" Margin="360,147,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="101"/>
+        <Label Content="By child's ID" HorizontalAlignment="Left" Height="30" Margin="466,147,0,0" VerticalAlignment="Top" Width="81"/>
+        <TextBox x:Name="idnannytxt" HorizontalAlignment="Left" Height="27" Margin="360,115,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="101"/>
+        <Label Content="By nanny's ID" HorizontalAlignment="Left" Height="30" Margin="466,115,0,0" VerticalAlignment="Top" Width="97"/>
+        <TextBox x:Name="idmomtxxt" HorizontalAlignment="Left" Height="27" Margin="360,83,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="101"/>
+        <Label Content="By mother's ID" HorizontalAlignment="Left" Height="30" Margin="466,83,0,0" VerticalAlignment="Top" Width="97"/>
+        <Button  Background="#D586A2" Content="Search" HorizontalAlignment="Left" Height="27" Margin="269,83,0,0" VerticalAlignment="Top" Width="71" Click="Button_Click_2"/>
+        <Button  Background="#D586A2" Content="Search" HorizontalAlignment="Left" Height="27" Margin="269,115,0,0" VerticalAlignment="Top" Width="71" Click="Button_Click_3"/>
+        <Button  Background="#D586A2" Content="Search" HorizontalAlignment="Left" Height="27" Margin="269,147,0,0" VerticalAlignment="Top" Width="71" Click="Button_Click_4"/>
+
+    </Grid>
+</Window>

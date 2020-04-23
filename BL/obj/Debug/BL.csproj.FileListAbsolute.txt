@@ -1,0 +1,28 @@
+c:\Users\ליטל\source\repos\WpfApp2\BL\bin\Debug\BL.dll
+c:\Users\ליטל\source\repos\WpfApp2\BL\bin\Debug\BL.pdb
+c:\Users\ליטל\source\repos\WpfApp2\BL\bin\Debug\BE.dll
+c:\Users\ליטל\source\repos\WpfApp2\BL\bin\Debug\DAL.dll
+c:\Users\ליטל\source\repos\WpfApp2\BL\bin\Debug\GoogleMapsApi.dll
+c:\Users\ליטל\source\repos\WpfApp2\BL\bin\Debug\DS.dll
+c:\Users\ליטל\source\repos\WpfApp2\BL\bin\Debug\Newtonsoft.Json.dll
+c:\Users\ליטל\source\repos\WpfApp2\BL\bin\Debug\BE.pdb
+c:\Users\ליטל\source\repos\WpfApp2\BL\bin\Debug\DAL.pdb
+c:\Users\ליטל\source\repos\WpfApp2\BL\bin\Debug\DS.pdb
+c:\Users\ליטל\source\repos\WpfApp2\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+c:\Users\ליטל\source\repos\WpfApp2\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+c:\Users\ליטל\source\repos\WpfApp2\BL\obj\Debug\BL.dll
+c:\Users\ליטל\source\repos\WpfApp2\BL\obj\Debug\BL.pdb
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\BL\bin\Debug\BL.dll
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\BL\bin\Debug\BL.pdb
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\BL\bin\Debug\BE.dll
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\BL\bin\Debug\DAL.dll
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\BL\bin\Debug\DS.dll
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\BL\bin\Debug\Newtonsoft.Json.dll
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\BL\bin\Debug\BE.pdb
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\BL\bin\Debug\DAL.pdb
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\BL\bin\Debug\DS.pdb
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\BL\obj\Debug\BL.dll
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\BL\obj\Debug\BL.pdb
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\BL\obj\Debug\BL.csprojAssemblyReference.cache
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\BL\obj\Debug\BL.csproj.CopyComplete

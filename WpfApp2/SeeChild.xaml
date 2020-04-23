@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfApp2.SeeChild"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="See Child" Height="430" Width="430.924">
+    <Grid Background="#e9e5dd">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <Button  Background="#D586A2" Content="Search" HorizontalAlignment="Left" Height="26" Margin="33,38,0,0" VerticalAlignment="Top" Width="64" Click="Button_Click"/>
+        <TextBox x:Name="idchildtxt" HorizontalAlignment="Left" Height="26" Margin="119,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="103"/>
+        <Label Content="Double click for search nanny" HorizontalAlignment="Left" Height="33" Margin="33,174,0,0" VerticalAlignment="Top" Width="340"  FontSize="16"/>
+        <ListBox x:Name="listBox" Background="#d5d3c9" HorizontalAlignment="Left" Height="167" Margin="86,212,0,0" VerticalAlignment="Top" Width="269" ContextMenuClosing="ListBox_ContextMenuClosing" PreviewMouseDoubleClick="listBox_PreviewMouseDoubleClick"/>
+        <Button  Background="#D586A2" Content="Search" HorizontalAlignment="Left" Height="28" Margin="33,69,0,0" VerticalAlignment="Top" Width="64" Click="Button_Click_1"/>
+        <Label Content="Search by child ID" HorizontalAlignment="Left" Height="26" Margin="227,38,0,0" VerticalAlignment="Top" Width="173"/>
+        <Label Content="Search mothers' children" HorizontalAlignment="Left" Height="28" Margin="227,69,0,0" VerticalAlignment="Top" Width="161"/>
+        <TextBox x:Name="momidtxt" HorizontalAlignment="Left" Height="28" Margin="119,69,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="103"/>
+        <Button  Background="#D586A2" Content="children without nanny" HorizontalAlignment="Left" Height="26" Margin="33,123,0,0" VerticalAlignment="Top" Width="322" Click="Button_Click_2" FontSize="16" RenderTransformOrigin="0.5,0.5"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,12 @@
+c:\Users\ליטל\source\repos\WpfApp2\BE\bin\Debug\BE.dll
+c:\Users\ליטל\source\repos\WpfApp2\BE\bin\Debug\BE.pdb
+c:\Users\ליטל\source\repos\WpfApp2\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+c:\Users\ליטל\source\repos\WpfApp2\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+c:\Users\ליטל\source\repos\WpfApp2\BE\obj\Debug\BE.dll
+c:\Users\ליטל\source\repos\WpfApp2\BE\obj\Debug\BE.pdb
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\BE\bin\Debug\BE.dll
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\BE\bin\Debug\BE.pdb
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\BE\obj\Debug\BE.dll
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\BE\obj\Debug\BE.pdb
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\BE\obj\Debug\BE.csprojAssemblyReference.cache

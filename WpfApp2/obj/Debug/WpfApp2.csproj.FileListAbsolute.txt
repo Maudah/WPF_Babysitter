@@ -1,0 +1,103 @@
+c:\users\ליטל\source\repos\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe.config
+c:\users\ליטל\source\repos\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe
+c:\users\ליטל\source\repos\WpfApp2\WpfApp2\bin\Debug\WpfApp2.pdb
+c:\users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csprojResolveAssemblyReference.cache
+c:\users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\Child.g.cs
+c:\users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\MainWindow.g.cs
+c:\users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\Nanny.g.cs
+c:\users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\App.g.cs
+c:\users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+c:\users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+c:\users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\Child.baml
+c:\users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\MainWindow.baml
+c:\users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\Nanny.baml
+c:\users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.g.resources
+c:\users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+c:\users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.Cache
+c:\users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+c:\users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.exe
+c:\users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.pdb
+c:\users\ליטל\source\repos\WpfApp2\WpfApp2\bin\Debug\BE.dll
+c:\users\ליטל\source\repos\WpfApp2\WpfApp2\bin\Debug\BL.dll
+c:\users\ליטל\source\repos\WpfApp2\WpfApp2\bin\Debug\DAL.dll
+c:\users\ליטל\source\repos\WpfApp2\WpfApp2\bin\Debug\GoogleMapsApi.dll
+c:\users\ליטל\source\repos\WpfApp2\WpfApp2\bin\Debug\DS.dll
+c:\users\ליטל\source\repos\WpfApp2\WpfApp2\bin\Debug\Newtonsoft.Json.dll
+c:\users\ליטל\source\repos\WpfApp2\WpfApp2\bin\Debug\BE.pdb
+c:\users\ליטל\source\repos\WpfApp2\WpfApp2\bin\Debug\BL.pdb
+c:\users\ליטל\source\repos\WpfApp2\WpfApp2\bin\Debug\DAL.pdb
+c:\users\ליטל\source\repos\WpfApp2\WpfApp2\bin\Debug\DS.pdb
+C:\Users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\DelNanny.g.cs
+C:\Users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\DelNanny.baml
+C:\Users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\Contract.g.cs
+C:\Users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\DelChild.g.cs
+C:\Users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\DelContract.g.cs
+C:\Users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\DelMother.g.cs
+C:\Users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\Mother.g.cs
+C:\Users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\Contract.baml
+C:\Users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\DelChild.baml
+C:\Users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\DelContract.baml
+C:\Users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\DelMother.baml
+C:\Users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\Mother.baml
+C:\Users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\SeeMothers.g.cs
+C:\Users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\SeeMothers.baml
+C:\Users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\SeeChild.g.cs
+C:\Users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\SeeContract.g.cs
+C:\Users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\SeeNanny.g.cs
+C:\Users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\SeeChild.baml
+C:\Users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\SeeContract.baml
+C:\Users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\SeeNanny.baml
+C:\Users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\BuildContract.g.cs
+C:\Users\ליטל\source\repos\WpfApp2\WpfApp2\obj\Debug\BuildContract.baml
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe.config
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\bin\Debug\WpfApp2.pdb
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\bin\Debug\BE.dll
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\bin\Debug\BL.dll
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\bin\Debug\DAL.dll
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\bin\Debug\GoogleMapsApi.dll
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\bin\Debug\DS.dll
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\bin\Debug\Newtonsoft.Json.dll
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\bin\Debug\BE.pdb
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\bin\Debug\BL.pdb
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\bin\Debug\DAL.pdb
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\bin\Debug\DS.pdb
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\BuildContract.g.cs
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\Child.g.cs
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\Contract.g.cs
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\DelChild.g.cs
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\DelContract.g.cs
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\DelMother.g.cs
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\DelNanny.g.cs
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\MainWindow.g.cs
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\Mother.g.cs
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\Nanny.g.cs
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\SeeChild.g.cs
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\SeeContract.g.cs
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\SeeMothers.g.cs
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\SeeNanny.g.cs
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\App.g.cs
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\BuildContract.baml
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\Child.baml
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\Contract.baml
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\DelChild.baml
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\DelContract.baml
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\DelMother.baml
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\DelNanny.baml
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\MainWindow.baml
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\Mother.baml
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\Nanny.baml
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\SeeChild.baml
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\SeeContract.baml
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\SeeMothers.baml
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\SeeNanny.baml
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\WpfApp2.g.resources
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.Cache
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\WpfApp2.exe
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\WpfApp2.pdb
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csprojAssemblyReference.cache
+D:\לימודים\שנה ב\סמסטר א\מיני פרוייקט\פרוייקט להגשה\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.CopyComplete

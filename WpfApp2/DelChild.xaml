@@ -1,0 +1,38 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        xmlns:BE="clr-namespace:BE;assembly=BE" x:Class="WpfApp2.DelChild"
+        mc:Ignorable="d"
+        Title="Delete child" Height="286.345" Width="339.357" Loaded="Window_Loaded">
+
+    <Grid Margin="0,0,-3.667,-1.667" Background="#e9e5dd">
+
+        <Grid x:Name="grid1" VerticalAlignment="Top" Margin="36,36,0,0" HorizontalAlignment="Left"  Height="116" Width="270">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Label VerticalAlignment="Center" Grid.Row="1" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="First name"/>
+            <TextBox x:Name="childFistNameTextBox" Width="120" VerticalAlignment="Center" Text="{Binding ChildFistName, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Grid.Row="1" Margin="3" Height="23" HorizontalAlignment="Left" Grid.Column="1" IsEnabled="False"/>
+            <Label VerticalAlignment="Center" Grid.Row="0" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="Child ID"/>
+            <TextBox x:Name="childIdTextBox" Width="120" VerticalAlignment="Center" Text="{Binding ChildId, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Grid.Row="0" Margin="3" Height="23" HorizontalAlignment="Left" Grid.Column="1"/>
+            <Label VerticalAlignment="Center" Grid.Row="2" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="Mother ID"/>
+            <TextBox x:Name="momIdTextBox" Width="120" VerticalAlignment="Center" Text="{Binding MomId, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Grid.Row="2" Margin="3" Height="23" HorizontalAlignment="Left" Grid.Column="1" IsEnabled="False"/>
+            <Button Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="128.333,6,-23.333,0" VerticalAlignment="Top" Width="28" Height="24" Click="Button_Click">
+                <Button.Background>
+                    <ImageBrush ImageSource="image/th (1).jpg"/>
+                </Button.Background>
+            </Button>
+        </Grid>
+        <Button   Background="#D586A2" Content="Delete" HorizontalAlignment="Left" Margin="109,173,0,0" VerticalAlignment="Top" Width="140" Height="40" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>

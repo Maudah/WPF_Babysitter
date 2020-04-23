@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<childs>
+  <child>
+    <ChildId>341083095</ChildId>
+    <ChildFistName>חנה</ChildFistName>
+    <MomId>207135724</MomId>
+    <ChildBirth>2000-01-01T00:00:00</ChildBirth>
+    <SpecialBoy>false</SpecialBoy>
+    <SpecialBoyDetails>אין</SpecialBoyDetails>
+  </child>
+  <child>
+    <ChildId>209322999</ChildId>
+    <ChildFistName>אביגיל</ChildFistName>
+    <MomId>207135724</MomId>
+    <ChildBirth>01/01/1998 00:00:00</ChildBirth>
+    <SpecialBoy>True</SpecialBoy>
+    <SpecialBoyDetails>אין פרטים נוספים</SpecialBoyDetails>
+  </child>
+</childs>
